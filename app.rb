@@ -1,1 +1,1 @@
-puts "Push Request"
+puts "Pull Request"
